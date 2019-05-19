@@ -105,3 +105,5 @@
 ### 104.《 Birdman or (The Unexpected Virtue of Ignorance) 鸟人》(2014奥斯卡)
 ### 105.《12 Years a Slave 为奴十二年》(2013奥斯卡)
 ### 106.《老师好》
+### 107.《Argo 逃离德黑兰》（2012奥斯卡）
+### 108.《比悲伤更悲伤的故事》
